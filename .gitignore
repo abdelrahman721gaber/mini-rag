@@ -8,7 +8,6 @@ __pycache__/
 *.bak
 *.dat
 *.dir
-
 # Distribution / packaging
 .Python
 build/
